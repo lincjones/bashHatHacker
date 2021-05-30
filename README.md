@@ -1,8 +1,8 @@
-- 👋 Hi, I’m The BlackHAtGorilla
+- 👋 Hi, I’m The BlackHatGorilla
 - You can sub to my channel at https://www.youtube.com/channel/UCIOdfxKRaDL48uszbB9wO-g
-- 👀 I’m interested in ethical hacking, web design, and gaming.
-- 🌱 I’m currently learning the aret of website hacking.
-- 💞️ I’m looking to collaborate on creating a web hacking program similar to XAttacker but far more advanced.
+- 👀 I’m interested in ethical hacking/pentesting,game development, and I specialize in python.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on creating a game in java.
 
 <!---
 bashHatHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
