@@ -1,5 +1,4 @@
 - 👋 Hi, I’m The BlackHatGorilla
-- You can sub to my channel at https://www.youtube.com/channel/UCIOdfxKRaDL48uszbB9wO-g
 - 👀 I’m interested in ethical hacking/pentesting,game development, and I specialize in python.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on creating a game in java.
